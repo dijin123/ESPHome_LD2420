@@ -1,4 +1,4 @@
-# 8266 Mini D1 and ESPHome - LD2420
+# Wemos D1 Mini (ESP8266) and ESPHome - HLK-LD2420
 The ld2420 sensor platform allows you to use the HLK-LD2420 motion and presence sensor. 
 
 ![image](https://github.com/user-attachments/assets/639262a7-4158-4e50-a289-b5b6e71808b0)
